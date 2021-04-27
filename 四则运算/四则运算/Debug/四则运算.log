@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(91,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(92,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(99,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(101,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(120,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(228,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(240,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(241,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(333,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Eric_xu\Desktop\软件工程\四则运算\四则运算\源.cpp(473,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  四则运算.vcxproj -> C:\Users\Eric_xu\Desktop\软件工程\四则运算\Debug\四则运算.exe
